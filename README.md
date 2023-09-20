@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://github.com/Nerfandao)
+[Clique aqui para acessar]([https://github.com/Nerfandao](https://github.com/Nerfandao/projeto-nlw_eSports))
 
 ## 🍷🗿 Tecnologias
 
